@@ -1,0 +1,153 @@
+header{
+    height:100px;
+    background:#F0F0F0;
+    border:10px solid #FFF;
+    width:auto;
+    
+}
+.p--header{
+    font-family: serif;
+    font-size: 12px;
+    font-style: italic;
+    text-align:right;
+    float: right;
+    
+}
+.img--header{
+    
+}
+h1{
+font-family: serif, georgia;
+font-size: 30px;
+font-style: italic;
+font-weight:inherit;
+text-align: center;
+border:10px solid #FFF;
+background: #F0F0F0;
+
+    
+}
+.h1--con1{
+font-family: serif, georgia;
+font-size: 30px;
+font-style: italic;
+font-weight:inherit;
+text-align: center;
+border: 0px
+}
+.h1--con2{
+font-family: serif, georgia;
+font-size: 30px;
+font-style: italic;
+font-weight:inherit;
+text-align: center;
+border:0px
+
+}
+.p--con1{
+    font-family: serif;
+    font-size: 15px;
+    font-style: oblique;
+    font-weight: 550;
+    text-align: center;
+    
+}
+.container{
+
+    display: flex;
+
+    flex-direction: ;
+
+    justify-content: flex-start;
+
+    border: 1px solid #FFF;
+
+    padding: 1px;
+}
+
+#con1{
+    width: 450px;
+    border: 10px solid #FFF ;
+    background-color:#F0F0F0 ;
+    height: auto;
+    border-right: 0px;
+    
+}
+
+#con2{
+    width: 100%;
+    border: 10px solid #FFF;
+    background-color: #F0F0F0;
+    height: auto;
+}
+#con3{
+    width: 100%;
+    text-align: center;
+    border: 0px;
+}
+.button{
+ 
+ text-decoration:none; text-align:center; 
+ padding:13px 70px; 
+ border:none; 
+ -webkit-border-radius:25px;
+ -moz-border-radius:25px; 
+ border-radius: 25px; 
+ font:18px "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+ font-weight:bold; 
+ color:#000000; 
+ background-color:#ffffff; 
+ background-image: -moz-linear-gradient(top, #ffffff 0%, #666666 100%); 
+ background-image: -webkit-linear-gradient(top, #ffffff 0%, #666666 100%); 
+ background-image: -o-linear-gradient(top, #ffffff 0%, #666666 100%); 
+ background-image: -ms-linear-gradient(top, #ffffff 0% ,#666666 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#666666',GradientType=0 ); 
+ background-image: linear-gradient(top, #ffffff 0% ,#666666 100%);   
+ -webkit-box-shadow:0px 5px 20px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 5px 20px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 5px 20px #bababa, inset 0px 0px 1px #ffffff;  
+  
+   -webkit-transition: all 0s linear;
+ -moz-transition:  all 0s linear;
+ -o-transition:  all 0s linear;
+ transition:  all 0s linear;}.button:hover{
+ padding:13px 70px; 
+ border:none; 
+ -webkit-border-radius:25px;
+ -moz-border-radius:25px; 
+ border-radius: 25px; 
+ font:24px "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+ font-weight:bold; 
+ color:#000000; 
+ background-color:#ffffff; 
+ background-image: -moz-linear-gradient(top, #ffffff 0%, #666666 100%); 
+ background-image: -webkit-linear-gradient(top, #ffffff 0%, #666666 100%); 
+ background-image: -o-linear-gradient(top, #ffffff 0%, #666666 100%); 
+ background-image: -ms-linear-gradient(top, #ffffff 0% ,#666666 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#666666',GradientType=0 ); 
+ background-image: linear-gradient(top, #ffffff 0% ,#666666 100%);   
+ -webkit-box-shadow:0px 5px 20px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 5px 20px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 5px 20px #bababa, inset 0px 0px 1px #ffffff;  
+  
+ }.button:active{
+ padding:13px 70px; 
+ border:none; 
+ -webkit-border-radius:25px;
+ -moz-border-radius:25px; 
+ border-radius: 25px; 
+ font:6px "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+ font-weight:bold; 
+ color:#000000; 
+ background-color:#ffffff; 
+ background-image: -moz-linear-gradient(top, #ffffff 0%, #666666 100%); 
+ background-image: -webkit-linear-gradient(top, #ffffff 0%, #666666 100%); 
+ background-image: -o-linear-gradient(top, #ffffff 0%, #666666 100%); 
+ background-image: -ms-linear-gradient(top, #ffffff 0% ,#666666 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#666666',GradientType=0 ); 
+ background-image: linear-gradient(top, #ffffff 0% ,#666666 100%);   
+ -webkit-box-shadow:0px 5px 20px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 5px 20px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 5px 20px #bababa, inset 0px 0px 1px #ffffff;  
+  
+ }
